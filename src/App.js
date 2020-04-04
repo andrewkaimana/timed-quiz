@@ -24,7 +24,7 @@ class TitlePage extends React.Component {
       currentState: TITLE_STATE
     })
   }
-
+ 
   start() {
     console.log("Starting!")
     this.setState({counter:0})
